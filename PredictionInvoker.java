@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PredictionInvoker {
+
+    HurricanePredictionTemplate template;
     //Invoker
     //Task1.Command Objects
     private List<Command> CommandList = new ArrayList<Command>();

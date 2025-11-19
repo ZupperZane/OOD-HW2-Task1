@@ -1,17 +1,17 @@
-package Task1;
+//package Task1;
 
-public class preprocessCommand implements Command{
+//public class preprocessCommand implements Command{
+    //Varibles / Encapsulation
+  //  HurricanePredictionTemplate cur;
 
-    HurricanePredictionTemplate cur;
+    //public preprocessCommand(HurricanePredictionTemplate Cur){
+    //    cur = Cur;
+    //}
 
-    public preprocessCommand(HurricanePredictionTemplate Cur){
-        cur = Cur;
-    }
+    //@Override
+    //public void Execute() {
+      //  System.out.println("Processing Data:");
+       // cur.preprocessData();
+    //}
 
-    @Override
-    public void Execute() {
-        System.out.println("Processing Data:");
-        cur.preprocessData();
-    }
-
-}
+//}

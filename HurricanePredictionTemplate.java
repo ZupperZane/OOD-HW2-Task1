@@ -1,7 +1,7 @@
 package Task1;
 
 public abstract class HurricanePredictionTemplate {
-
+    //abstract template
     void PredictHurricane(){
         this.fetchdata();
         this.preprocessData();
